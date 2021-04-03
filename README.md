@@ -1,4 +1,14 @@
-# libnetwork - networking for containers
+# Форк библиотеки moby/libnetwork
+
+## Краткое описание
+Форк библиотеки moby/libnetwork. Не разрабатывается
+
+## Ответственные
+
+- Code owner: [Александр Прусов](https://skyeng.slack.com/team/US1TGKY3F)
+- Product owner: [Артем Науменко](https://skyeng.slack.com/team/U9AGNCBC1)
+- Команда: Infra Ops
+
 
 [![Circle CI](https://circleci.com/gh/docker/libnetwork/tree/master.svg?style=svg)](https://circleci.com/gh/docker/libnetwork/tree/master) [![Coverage Status](https://coveralls.io/repos/docker/libnetwork/badge.svg)](https://coveralls.io/r/docker/libnetwork) [![GoDoc](https://godoc.org/github.com/docker/libnetwork?status.svg)](https://godoc.org/github.com/docker/libnetwork) [![Go Report Card](https://goreportcard.com/badge/github.com/docker/libnetwork)](https://goreportcard.com/report/github.com/docker/libnetwork)
 
